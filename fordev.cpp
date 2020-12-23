@@ -1,1 +1,2 @@
-for dev
+#include<iostream>
+using namespace std;
